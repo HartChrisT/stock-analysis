@@ -14,6 +14,7 @@ Stocks performed a lot better overall in 2017 than in 2018. Eleven of the twelve
 The refactored code ran significantly faster! Here are the run times for 2017 and 2018 before the refactor.
 ![2017 prefactor](https://user-images.githubusercontent.com/92996865/148012919-d2828e02-1c6f-4d98-8ed2-5f07a0e71033.png)
 ![2018 prefactor](https://user-images.githubusercontent.com/92996865/148012924-ce3041f4-e332-4838-9f9c-60c67e84fa7d.png)
+
 It took approximately one tenth of a second for the refactored code to run as opposed to the .77 seconds the old code to run making the refactored code approximately 6.7 times faster when using the 2018 refactor time of .10 seconds.
 
 ## Summary
