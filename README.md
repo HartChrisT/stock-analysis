@@ -7,8 +7,8 @@
 To refactor a VBA script used to analyze a dozen stocks so it runs more efficiently and can be applied the entire stock market. 
 
 ## Results
-![VBA_Challenge_2017](https://user-images.githubusercontent.com/92996865/148013175-08c54648-d383-4ace-9f52-8666caf25b79.png)
-![VBA_Challenge_2018](https://user-images.githubusercontent.com/92996865/148013180-efe99c31-661c-401d-92e0-e548267d52f5.png)
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/92996865/148013609-e3fe9d1b-6575-4aac-a85e-70ab976cc312.png)
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/92996865/148013614-84d8bc84-706f-44f1-ab80-3fdd26027c0f.png)
 Stocks performed a lot better overall in 2017 than in 2018. Eleven of the twelve stocks generated positive returns in 2017 as opposed to only two of the twelve stocks in 2018.
 
 The refactored code ran significantly faster! Here are the run times for 2017 and 2018 before the refactor.
