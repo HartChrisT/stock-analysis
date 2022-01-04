@@ -7,6 +7,8 @@
 To refactor a VBA script used to analyze a dozen stocks so it runs more efficiently and can be applied the entire stock market. 
 
 ## Results
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/92996865/148011190-fd3c4d57-6c95-4983-8283-4e07545f308d.png)
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/92996865/148011195-4fe95a2d-9ff3-4a49-85eb-aaa3b29744f9.png)
 
 
 ## Summary
